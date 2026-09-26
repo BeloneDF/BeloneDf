@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Construo produtos digitais de ponta a ponta, da experiência à API, banco de dados e deploy.
+  Construo produtos digitais de ponta a ponta — da experiência à API, banco de dados e deploy.
 </p>
 
 ```ts
